@@ -1,5 +1,5 @@
 
-Shader "Custom/DepthGrayscale" {
+Shader "Custom/ShadowMapCamera" {
 SubShader {
 Tags { "RenderType"="Opaque" }
 
