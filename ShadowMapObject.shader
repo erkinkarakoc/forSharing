@@ -1,4 +1,4 @@
-Shader "USB/ShadowMapping/ShadowMap"
+Shader "Custom/ShadowMapObject"
 {
     Properties
     {
